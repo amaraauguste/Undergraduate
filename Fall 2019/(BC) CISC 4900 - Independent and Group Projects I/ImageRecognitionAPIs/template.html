@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://html5-templates.com/" />
+    <title>IMAGE RECOGNITION API EVALUATOR</title>
+    <meta name="description" content="Simple HTML5 Page to Display Results From Image Recognition APIs">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+	<header>
+		<h1>IMAGE RECOGNITION API EVALUATOR</h1>
+	</header>
+	<section>
+		<strong>Evaluates the API results from Gaurav Oberoi's Open Source tool --- Cloudy Vision, to test the image labeling capabilities of different computer vision API vendors, found here: <a href="https://github.com/goberoi/cloudy_vision">https://github.com/goberoi/cloudy_vision</a>. Uses the Apache Commons IO library to generate and write output to an html file and JFreeChart to create and display visual representation of the statistical data. </strong>
+	</section>
+	<section id="pageContent">
+		<main role="main">
+			<article>
+				<h2><strong>$total</strong></h2><br>
+				<p style="margin-left: 40px">$evaluations</p>
+			</article>
+			<article>
+				<h2><strong>API Rankings (Most to least accurate):</strong></h2><br>
+				<p style="margin-left: 40px">$rankings</p>
+			</article>
+			<article>
+				<h2></h2>
+				<p><strong>$most</strong></p>	
+				<p><strong>$least</strong></p>
+			</article>
+			<article>
+				<h2><strong>Average Tags Per Image:</strong></h2><br>
+				<p style="margin-left: 40px">$average</p>
+			</article>
+
+		</main>
+		<aside>
+			<img src="images/percentageChart.png" alt="percentage chart">
+			<br><br><br><br>
+			<img src="images/averageChart.png" alt="average chart">
+		</aside>
+	</section>
+
+</body>
+
+</html>

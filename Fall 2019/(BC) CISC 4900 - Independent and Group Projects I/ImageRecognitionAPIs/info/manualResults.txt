@@ -1,0 +1,290 @@
+T001	bird, snow, landscape, sky					
+T002	snow, landscape, grass, sky					
+T003	bird, ground, snow, landscape, grass, sky					
+T004	bird, ground, snow, landscape, grass, sky					
+T005	bird, ground, snow, landscape, grass, sky					
+T006	ground, sky, snow, grass, clouds, sunlight, landscape					
+T007	ground, sky, snow, grass, clouds, sunlight, landscape					
+T008	ground, sky, snow, grass, clouds, sunlight, animal, animals, bird				
+T009	ground, sky, snow, grass, clouds, sunlight, animal, bird					
+T010	ground, sky, snow, grass, clouds, sunlight					
+T011	ground, sky, snow, grass, clouds, sunlight					
+T012	ground, sky, snow, grass, clouds, sunlight					
+T013	ground, sky, snow, grass, clouds					
+T014	ground, sky, snow, grass, sunlight, animal, caribou, deer					
+T015	ground, sky, snow, grass, sunlight, animal, caribou, deer					
+T016	ground, sky, snow, grass, sunlight, animal, caribou, deer					
+T017	ground, sky, snow, grass, sunlight, animal, deer					
+T018	ground, sky, snow, grass, sunlight, animal					
+T019	ground, sky, snow, grass, sunlight, animal					
+T020	ground, sky, snow, grass, sunlight					
+T021	ground, sky, snow, grass, sunlight					
+T022	ground, sky, snow, grass, sunlight					
+T023	ground, sky, snow, grass, sunlight					
+T024	ground, sky, snow, grass, sunlight					
+T025	ground, sky, snow, grass, sunlight					
+T026	ground, sky, snow, grass, sunlight					
+T027	ground, sky, snow, grass, sunlight					
+T028	ground, sky, snow, grass, sunlight					
+T029	ground, sky, snow, grass, sunlight					
+T030	ground, sky, snow, grass, sunlight					
+T031	animal, bird, ground, sky, snow, grass, sunlight					
+T032	ground, sky, snow, grass, sunlight					
+T033	ground, sky, snow, grass, sunlight					
+T034	ground, sky, snow, grass, sunlight					
+T035	animal, bird, ground, sky, snow, grass, sunlight					
+T036	clouds, cloudy, gray/blue sky, sunny, grass, field, snow, ice, puddle				
+T037	clouds, cloudy, gray/blue sky, sunny, grass, field, snow, ice, puddle				
+T038	clouds, cloudy, gray/blue sky, sunny, grass, field, snow, ice, puddle				
+T039	clouds, cloudy, gray/blue sky, sunny, grass, field, snow, ice, puddle		
+T040	clouds, cloudy, gray/blue sky, sunny, grass, field, snow, ice, puddle				
+T041	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T042	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T043	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T044	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T045	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T046	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T047	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T048	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T049	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T050	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T051	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T052	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T053	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T054	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T055	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T056	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T057	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T058	clouds, cloudy, blue sky, sunny, grass, field, snow, ice, puddle				
+T059	snow, grass, sky, field					
+T060	snow, grass, sky, field					
+T061	snow, grass, sky, field					
+T062	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T063	animals, grass, caribou,  deer, snow, sky					
+T064	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T065	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T066	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T067	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T068	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T069	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T070	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T071	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice, animal		
+T072	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T073	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice, animal, caribou, deer	
+T074	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice, animal, animals, caribou, deer	
+T075	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice, animal, animals, caribou, deer	
+T076	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice, animal, animals, caribou, deer	
+T077	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice, animal, caribou, deer	
+T078	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T079	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice, animal, bird			
+T080	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice, animal, animals, caribou, deer	
+T081	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice, animal, caribou, deer	
+T082	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice, animal		
+T083	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T084	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T085	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T086	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T087	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice, animal, caribou, deer	
+T088	clouds, cloudy, gray/blue sky, sunny, grass, field, snow, puddle, water, ice			
+T089	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T090	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T091	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice		
+T092	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T093	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T094	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T095	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T096	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T097	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water, ice			
+T098	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water				
+T099	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water				
+T100	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water				
+T101	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water				
+T102	clouds, cloudy, blue sky, sunny, grass, field, snow, puddle, water				
+T103	blue sky, sunny, grass, field, snow, puddle, water					
+T104	blue sky, sunny, grass, field, snow, puddle, water, animal, animals, caribou, deer		
+T105	blue sky, sunny, grass, field, snow, puddle, water					
+T106	blue sky, sunny, grass, field, snow, puddle, water, animal, animals, caribou, deer		
+T107	blue sky, sunny, grass, field, snow, puddle, water, animal, animals, caribou, deer		
+T108	blue sky, sunny, grass, field, snow, puddle, water, animal, animals, caribou, deer		
+T109	blue sky, sunny, grass, field, snow, puddle, water, animal, caribou, deer			
+T110	blue sky, sunny, grass, field, snow, puddle, water					
+T111	blue sky, sunny, grass, field, snow, puddle, water					
+T112	blue sky, sunny, grass, field, snow, puddle, water					
+T113	blue sky, sunny, grass, field, snow, puddle, water					
+T114	blue sky, sunny, grass, field, snow, puddle, water					
+T115	blue sky, sunny, grass, field, snow, puddle, water					
+T116	blue sky, sunny, grass, field, snow, puddle, water					
+T117	blue sky, sunny, grass, field, snow, puddle, water					
+T118	blue sky, sunny, grass, field, snow, puddle, water					
+T119	blue sky, sunny, grass, field, snow, puddle, water					
+T120	blue sky, sunny, grass, field, snow, puddle, water					
+T121	blue sky, sunny, grass, field, snow, puddle, water					
+T122	blue sky, sunny, grass, field, snow, puddle, water					
+T123	clouds, blue sky, sunny, grass, field, snow, puddle, water					
+T124	clouds, blue sky, sunny, grass, field, snow, puddle, water					
+T125	clouds, blue sky, sunny, grass, field, snow, puddle, water					
+T126	clouds, blue sky, sunny, grass, field, snow, puddle, water, animal, caribou			
+T127	clouds, blue sky, sunny, grass, field, snow, puddle, water, animal, caribou			
+T128	clouds, blue sky, sunny, grass, field, snow, puddle, water, animal, caribou			
+T129	clouds, blue sky, sunny, grass, field, snow, puddle, water, animal				
+T130	clouds, blue sky, sunny, grass, field, snow, puddle, water, animal	
+T131	clouds, blue sky, sunny, grass, field, snow, puddle, water, animal			
+T132	clouds, blue sky, sunny, grass, field, snow, puddle, water, animal, animals, bird		
+T133	clouds, blue sky, grass, field, snow, puddle, water					
+T134	clouds, blue sky, sunny, grass, field, snow, puddle, water					
+T135	clouds, blue sky, sunny, grass, field, snow, puddle, water					
+T136	clouds, blue sky, sunny, grass, field, snow, puddle, water					
+T137	clouds, blue sky, sunny, grass, field, snow, puddle, water					
+T138	clouds, blue sky, sunny, grass, field, snow, puddle, water, animal, animals, bird		
+T139	clouds, blue sky, sunny, grass, field, snow, puddle, water					
+T140	clouds, blue sky, sunny, grass, field, snow, puddle, water, animal, animals, bird		
+T141	clouds, blue sky, sunny, grass, field, snow, puddle, water					
+T142	clouds, blue sky, sunny, grass, field, snow, puddle, water					
+T143	clouds, blue sky, sunny, grass, field, snow, puddle, water					
+T144	clouds, blue sky, sunset, grass, field, snow, puddle, water					
+T145	clouds, blue sky, sunset, grass, field, snow, puddle, water					
+T146	clouds, blue sky, sunset, grass, field, snow, puddle, water					
+T147	clouds, sky, sunset, grass, field, snow, puddle, water					
+T148	clouds, sky, sunset, grass, field, snow, puddle, water					
+T149	clouds, sky, sunset, grass, field, snow, puddle, water					
+T150	clouds, sky, sunset, grass, field, snow, puddle, water, animal, animals			
+T151	clouds, sky, sunset, grass, field, snow, puddle, water, animal, animals			
+T152	clouds, sky, sunset, grass, field, snow, puddle, water, animal, animals			
+T153	clouds, sky, sunset, grass, field, snow, puddle, water, animal, animals, deer		
+T154	clouds, sky, sunset, grass, field, snow, puddle, water, animal, animals			
+T155	clouds, sky, sunset, grass, field, snow, puddle, water, animal, animals			
+T156	clouds, sky, sunset, grass, field, snow, puddle, water, animal, animals			
+T157	clouds, sky, sunset, grass, field, snow, puddle, water, animal, animals, bird		
+T158	clouds, sky, sunset, grass, field, snow, puddle, water, animal, animals, bird		
+T159	clouds, sky, grass, field, snow, puddle, water, animal, deer					
+T160	clouds, sky, grass, field, snow, puddle, water, animal, deer					
+T161	clouds, sky, grass, field, snow, puddle, water, animal, animals				
+T162	clouds, sky, grass, field, snow, puddle, water, animal, animals, birds			
+T163	clouds, gray/blue sky, grass, field, snow, puddle, water					
+T164	clouds, gray/blue sky, grass, field, snow, puddle, water					
+T165	fog, gray/blue sky, grass, field, snow, puddle, water					
+T166	fog, gray/blue sky, grass, field, snow, puddle, water					
+T167	fog, gray/blue sky, grass, field, snow, puddle, water					
+T168	clouds, cloudy, fog, gray/blue sky, grass, field, snow, puddle, water				
+T169	clouds, cloudy, fog, gray/blue sky, grass, field, snow, puddle, water. animal		
+T170	clouds, cloudy, fog, gray/blue sky, grass, field, snow, puddle, water				
+T171	clouds, cloudy, fog, gray/blue sky, grass, field, snow, puddle, water				
+T172	clouds, fog, gray/blue sky, grass, field, snow, puddle, water					
+T173	clouds, fog, gray/blue sky, grass, field, snow, puddle, water					
+T174	clouds, fog, gray/blue sky, grass, field, snow, puddle, water					
+T175	clouds, fog, gray/blue sky, grass, field, snow, puddle, water					
+T176	clouds, fog, gray/blue sky, grass, field, snow, puddle, water					
+T177	clouds, fog, gray/blue sky, grass, field, snow, puddle, water					
+T178	clouds, fog, gray/blue sky, grass, field, snow, puddle, water					
+T179	clouds, fog, gray/blue sky, grass, field, snow, puddle, water					
+T180	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T181	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T182	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T183	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T184	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T185	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T186	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T187	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T188	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T189	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T190	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T191	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T192	clouds, fog, gray sky, grass, field, snow, puddle, water					
+T193	cloudy, clouds, blue sky, grass, field, snow, puddle, water					
+T194	cloudy, clouds, blue sky, grass, field, snow, puddle, water					
+T195	cloudy, clouds, blue sky, grass, field, snow, puddle, water					
+T196	cloudy, clouds, blue sky, grass, field, snow, puddle, water					
+T197	cloudy, clouds, blue sky, grass, field, snow, puddle, water					
+T198	cloudy, clouds, blue sky, grass, field, snow, puddle, water					
+T199	cloudy, clouds, blue sky, grass, field, snow, puddle, water					
+T200	cloudy, clouds, blue sky, grass, field, snow, puddle, water					
+T201	foggy, blue sky, grass, field, snow, puddle, water					
+T202	sunny, blue sky, grass, field, snow, puddle, water					
+T203	sunny, blue sky, grass, field, snow, puddle, water					
+T204	sunny, blue sky, grass, field, snow, puddle, water					
+T205	sunny, blue sky, grass, field, snow, puddle, water					
+T206	sunny, blue sky, grass, field, snow, puddle, water					
+T207	sunny, blue sky, grass, field, snow, puddle, water					
+T208	sunny, blue sky, grass, field, snow, puddle, water					
+T209	sunny, blue sky, grass, field, snow, puddle, water					
+T210	sunny, blue sky, grass, field, snow, puddle, water					
+T211	sunny, blue sky, grass, field, snow, puddle, water					
+T212	sunny, blue sky, grass, field, snow, puddle, water					
+T213	sunny, blue sky, grass, field, snow, puddle, water					
+T214	sunny, blue sky, grass, field, snow, puddle, water					
+T215	sunny, blue sky, grass, field, snow, puddle, water					
+T216	sunny, blue sky, grass, field, snow, puddle, water					
+T217	sunny, blue sky, grass, field, snow, puddle, water					
+T218	sunny, blue sky, grass, field, snow, puddle, water					
+T219	sunny, blue sky, grass, field, snow, puddle, water					
+T220	sunny, blue sky, grass, field, snow, puddle, water					
+T221	sunny, blue sky, grass, field, snow, puddle, water					
+T222	sunny, blue sky, grass, field, snow, puddle, water					
+T223	sunny, blue sky, grass, field, snow, puddle, water					
+T224	sunny, blue sky, grass, field, snow, puddle, water					
+T225	sunny, blue sky, grass, field, snow, puddle, water					
+T226	sunny, blue sky, grass, field, snow, puddle, water					
+T227	sunny, blue sky, grass, field, snow, puddle, water					
+T228	sunny, blue sky, grass, field, snow, puddle, water					
+T229	sunny, blue sky, grass, field, snow, puddle, water					
+T230	sunny, blue sky, grass, field, snow, puddle, water					
+T231	sunny, blue sky, grass, field, snow, puddle, water					
+T232	sunny, blue sky, grass, field, snow, puddle, water					
+T233	sunny, blue sky, grass, field, snow, puddle, water					
+T234	sunny, blue sky, grass, field, snow, puddle, water					
+T235	sunny, blue sky, grass, field, snow, puddle, water					
+T236	sunny, blue sky, grass, field, snow, puddle, water					
+T237	sunny, blue sky, grass, field, snow, puddle, water					
+T238	sunny, blue sky, grass, field, snow, puddle, water					
+T239	sunny, blue sky, grass, field, snow, puddle, water					
+T240	sunny, blue sky, grass, field, snow, puddle, water					
+T241	sunny, blue sky, grass, field, snow, puddle, water					
+T242	sunny, blue sky, grass, field, snow, puddle, water					
+T243	sunny, blue sky, grass, field, snow, puddle, water					
+T244	sunny, blue sky, grass, field, snow, puddle, water					
+T245	sunny, blue sky, grass, field, snow, puddle, water					
+T246	sunny, blue sky, grass, field, snow, puddle, water					
+T247	sunny, blue sky, grass, field, snow, puddle, water					
+T248	sunny, blue sky, grass, field, snow, puddle, water					
+T249	sunny, blue sky, grass, field, snow, puddle, water					
+T250	sunny, blue sky, grass, field, snow, puddle, water					
+T251	sunny, blue sky, grass, field, snow, puddle, water					
+T252	sunny, blue sky, grass, field, snow, puddle, water					
+T253	sunny, blue sky, grass, field, snow, puddle, water					
+T254	sunny, blue sky, grass, field, snow, puddle, water					
+T255	sunny, blue sky, grass, field, snow, puddle, water					
+T256	sunny, blue sky, grass, field, snow, puddle, water					
+T257	sunny, blue sky, grass, field, snow, puddle, water					
+T258	sunny, blue sky, grass, field, snow, puddle, water					
+T259	sunny, blue sky, grass, field, snow, puddle, water					
+T260	sunny, blue sky, grass, field, snow, puddle, water					
+T261	sunny, blue sky, grass, field, snow, puddle, water					
+T262	sunny, blue sky, grass, field, snow, puddle, water					
+T263	sunny, blue sky, grass, field, snow, puddle, water					
+T264	sunny, blue sky, grass, field, snow, puddle, water					
+T265	sunny, blue sky, grass, field, snow, puddle, water					
+T266	sunny, blue sky, grass, field, snow, puddle, water					
+T267	sunny, blue sky, grass, field, snow, puddle, water					
+T268	sunny, blue sky, grass, field, snow, puddle, water					
+T269	sunny, blue sky, grass, field, snow, puddle, water					
+T270	sunny, blue sky, grass, field, snow, puddle, water					
+T271	sunny, blue sky, grass, field, snow, puddle, water					
+T272	sunny, blue sky, grass, field, snow, puddle, water					
+T273	sunny, blue sky, grass field, animal, animals					
+T274	sunny, blue sky, grass, field, animal, animals					
+T275	sunny, blue sky, grass, field, snow, puddle, water, animal, caribou				
+T276	sunny, blue sky, grass, field, snow, puddle, water					
+T277	sunny, blue sky, grass, field, snow, puddle, water					
+T278	sunny, blue sky, grass, field, snow, puddle, water					
+T279	sunny, blue sky, grass, field, snow, puddle, water					
+T280	sunny, blue sky, grass, field, snow, puddle, water					
+T281	sunny, blue sky, grass, field, snow, puddle, water					
+T282	sunny, blue sky, grass, field, snow, puddle, water					
+T283	sunny, blue sky, grass, field, snow, puddle, water					
+T284	sunny, blue sky, grass, field, snow, puddle, water					
+T285	sunny, blue sky, grass, field, snow, puddle, water					
+T286	sunny, blue sky, animal, bear, grass					
+T287	sunny, blue sky, grass, bird, sky					
+T288	sunny, blue sky, animal, grass					
+T289	fog, animal, caribou, grass, sky 					
+T290	fog, animal, deer, grass, sky					

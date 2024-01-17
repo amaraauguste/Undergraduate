@@ -1,0 +1,40 @@
+//create table and import data from presentation feedback//
+
+CREATE SCHEMA `cisc3140`;
+
+CREATE TABLE `cisc3140`.`feedback` (
+  `time` DATETIME NOT NULL,
+  `organization` INT NOT NULL,
+  `understandability` INT NOT NULL,
+  `enthusiasm` INT NOT NULL,
+  `teachability` INT NOT NULL,
+  `what was learned` VARCHAR(1000) NOT NULL,
+  `what worked well` VARCHAR(1000) NOT NULL,
+  `suggestions for improvement` VARCHAR(1000) NOT NULL,
+  `additional comments` VARCHAR(255) NULL);
+
+LOAD DATA INFILE 'C:\Users\gohansrealdad\Downloads\1452 - 1452.csv' 
+INTO TABLE feedback 
+
+SELECT * FROM cisc3140.feedback;
+
+//calculate min scores from fields//
+
+SELECT MIN(organization) AS 'Minimum Organization Score', 
+MIN(understandability) AS 'Minimum Understandability Score', 
+MIN(enthusiasm) AS 'Minimum Enthusiasm Score', 
+MIN(teachability) AS 'Minimum Teachability Score' FROM feedback;
+
+//calculate max scores from fields//
+
+SELECT MAX(organization) AS 'Maximum Organization Score',
+MAX(understandability) AS 'Maximum Understandability Score',
+MAX(enthusiasm) AS 'Maximum Enthusiasm Score',
+MAX(teachability) AS 'Maximum Teachability Score' FROM feedback;
+
+//calculate average scores from fields//
+
+SELECT AVG(organization) AS 'Average Organization Score',
+AVG(understandability) AS 'Average Understandability Score',
+AVG(enthusiasm) AS 'Average Enthusiasm Score',
+AVG(teachability) AS 'Average Teachability Score' FROM feedback;

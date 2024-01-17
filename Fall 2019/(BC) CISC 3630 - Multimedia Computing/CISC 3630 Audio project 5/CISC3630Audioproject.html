@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Mad Lib</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" integrity="sha256-OweaP/Ic6rsV+lysfyS4h+LM6sRwuO3euTYfr6M124g=" crossorigin="anonymous" />
+</head>
+
+<body>
+    <h1>Mad Libs!</h1>
+
+    <div id="madlib"></div>
+    <br/>
+    
+    <i>Enter text to complete the sentence: </i>
+    <br/>
+    <i>"The __(adjective)__ __(noun)__ took the  __(2nd adjective)__  __(animal)__ to the __(place)__." </i>
+    
+<br/>
+    <br/><strong>Adjective</strong>: <input type="text" id="adjective" /><br/>
+    <strong>Noun</strong>: <input type="text" id="noun" /><br/>
+    <strong>Adjective 2</strong>: <input type="text" id="2ndadjective" /><br/>
+    <strong>Animal</strong>: <input type="text" id="animal" /><br/>
+    <strong>Place</strong>: <input type="text" id="place" /><br/>
+
+    <button id="speak">Speak!</button>
+
+
+
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-materialize/0.2.2/angular-materialize.min.js" integrity="sha256-/EgeqIM2QizCNgehBes2eEeSh5Agd6t0hdvGQIfnj88=" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        $('#speak').click(function() {
+            var noun = $('#noun').val();
+            var adjective = $('#adjective').val();
+            var adjective2 = $('#2ndadjective').val();
+            var animal = $('#animal').val();
+            var place = $('#place').val();
+            var msg = new SpeechSynthesisUtterance("The " + adjective + " " + noun + " took the  " + adjective2 + " " + animal + " to the " + place);
+
+            window.speechSynthesis.cancel();
+            window.speechSynthesis.speak(msg);
+
+
+        });
+    </script>
+</body>
+
+</html>

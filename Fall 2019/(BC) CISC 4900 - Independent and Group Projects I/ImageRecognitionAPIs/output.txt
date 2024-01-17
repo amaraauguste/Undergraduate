@@ -1,0 +1,24 @@
+Number of images to evaluate: 290
+------------------------------------------------
+For 'google.txt', accuracy in comparison to manual evaluation: 292 out of 2850 (tags) or 10.25%
+For 'msft.txt', accuracy in comparison to manual evaluation: 1188 out of 2850 (tags) or 41.68%
+For 'rekognition.txt', accuracy in comparison to manual evaluation: 290 out of 2850 (tags) or 10.18%
+For 'clarifai.txt', accuracy in comparison to manual evaluation: 859 out of 2850 (tags) or 30.14%
+
+API Rankings (Most to least accurate): 
+---------------------------------------
+1) 'msft.txt': 41.68% accuracy
+2) 'clarifai.txt': 30.14% accuracy
+3) 'google.txt': 10.25% accuracy
+4) 'rekognition.txt': 10.18% accuracy
+
+Most accurate API is: 'msft.txt' at 41.68% accuracy
+Least accurate API is: 'rekognition.txt' at 10.18% accuracy
+
+Average Tags Per Image: 
+--------------------------
+Average tags per image for google.txt is: 9
+Average tags per image for msft.txt is: 8
+Average tags per image for rekognition.txt is: 11
+Average tags per image for clarifai.txt is: 19
+
